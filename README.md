@@ -7,7 +7,7 @@ Uncovered customer, order, and payment insights to support region-specific marke
 - **Dataset:** Brazil e-commerce (over 100,000 orders)
 - **Platform:** Google BigQuery
 - **Skills Used:** SQL, Data Analysis, Visualization, Business Insights
-- **File:** [View the full project report (PDF)](./Target_SQL_Project.pdf)
+  
 
 ##  Key Insights
 - São Paulo had the **highest order volume**.
